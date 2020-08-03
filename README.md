@@ -8,4 +8,4 @@ Este repositório contém uma Aplicação de cadastro de usuários (CRUD) desenv
 * Entre na pasta do projeto  ```cd flutter-crud-users```
 * Inicie o projeto com ```flutter run```
 
-![](demo.gif =480x800)
+![](demo.gif){ width: 450px; height:800px;}
